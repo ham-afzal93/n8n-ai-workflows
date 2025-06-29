@@ -1,0 +1,8 @@
+This commit adds a project that demonstrates an n8n automation for scaling content creation, which grew a website to 200k annual sessions.
+
+The workflow automates the generation of SEO-optimized "roundup" articles by:
+- Fetching context from an internal API.
+- Building a detailed prompt for an AI "Deep Research" tool.
+- Using a human-in-the-loop step for quality control and pasting research results.
+- Generating the article modularly (intro, body, conclusion) for better output.
+- Pushing the final content to a headless CMS (Sanity.io) via a custom endpoint.
