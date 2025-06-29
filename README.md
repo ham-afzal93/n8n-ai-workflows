@@ -1,6 +1,3 @@
-# The Recap AI + AI Automation Mastery n8n Workflows
-
-Collection of n8n workflows and automations created and maintained by [The Recap AI](https://recap.aitools.inc) — Join our free community [AI Automation Mastery](https://www.skool.com/ai-automation-mastery-group) to connect with AI builders learn how to build n8n automations step-by-step.
 
 ## Workflows
 
